@@ -3,13 +3,7 @@ package Okela;
 public class HelloPNN {
 	public static void main(String[] args)
 	{
-		for (int i = 0; i < 5; i++)
-		{
-			for (int j = i; j < 5; j++)
-			{
-				System.out.print("*");
-			}
-			System.out.println();
-		}
+		System.out.println("Hello PNN"); 
+		System.out.println("Xin chào cậu"); 
 	}
 }
